@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/HelloWorld3.exe.dir/main.cpp.o  -o ../../bin/HelloWorld3.exe libs/libLIBS.a 

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/silent/cmake_test/HelloWorld3/src/libs/display.cpp
+iostream
+-
+display.h
+/home/silent/cmake_test/HelloWorld3/src/libs/display.h
+
+/home/silent/cmake_test/HelloWorld3/src/libs/display.h
+
